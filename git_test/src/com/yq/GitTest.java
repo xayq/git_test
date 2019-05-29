@@ -5,4 +5,7 @@ public class GitTest {
         System.out.println("Git Test...");
         System.out.println("111111111111111111111");
     }
+    public void aa(){
+        System.out.println("aaaaaaaaaaaaaaa");
+    }
 }
